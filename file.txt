@@ -1,2 +1,4 @@
 File content
 One more line to the file
+Same line for both files
+Same line for both files

@@ -1,3 +1,4 @@
 File content
 Another content
 One more line to another file
+Same line for both files
