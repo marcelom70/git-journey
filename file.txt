@@ -1,1 +1,2 @@
 File content
+One more line to the file
